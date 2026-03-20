@@ -1,0 +1,9 @@
+-- Setup Script
+CREATE DATABASE company_db;
+...
+
+-- Task 1
+SELECT ...
+
+-- Task 2
+SELECT ...
